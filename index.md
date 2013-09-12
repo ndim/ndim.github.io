@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: n-dimensional
+tagline: ndim's home page on the web
 ---
 {% include JB/setup %}
 
