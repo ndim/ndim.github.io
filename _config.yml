@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : n-dimensional
+title : n-dimensional.de
 tagline: n-dim, ndim and stuff
 author :
   name : Hans Ulrich Niedermann

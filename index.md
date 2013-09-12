@@ -1,7 +1,7 @@
 ---
 layout: page
-title: n-dimensional
-tagline: ndim's home page on the web
+title: n-dimensional.de home
+tagline: my place on the web
 ---
 {% include JB/setup %}
 
